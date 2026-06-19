@@ -6,6 +6,7 @@ class Program
     {
         while (true)
         {
+            // Clears previous calculations from the console
             Console.Clear();
             // User inputs the full calculation example: 1 + 1
             Console.WriteLine("Input calculation: ");
